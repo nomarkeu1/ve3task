@@ -1,0 +1,10 @@
+   Duration  Pulse  Maxpulse  Calories
+0        60    110       130     409.1
+1        60    117       145     479.0
+2        60    103       135     340.0
+
+
+Duration: Mean Value -  64.14634146341463 , Median -  60.0 , SD -  42.88881958539665
+Pulse: Mean Value -  107.67682926829268 , Median -  105.5 , SD -  14.637516289873636
+Maxpulse: Mean Value -  134.27439024390245 , Median -  131.0 , SD -  16.583059661114287
+Calories: Mean Value -  375.80000000000007 , Median -  318.6 , SD -  266.3771340524788
