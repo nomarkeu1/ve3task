@@ -4,7 +4,7 @@ for ve3 internship technical assessment
 
 simply clone the repo and run 'python3 manage.py runserver' at the root directory.
 
-The 'task' app sits at 127.0.0.1/8080
+The 'task' app sits at 127.0.0.1/8000
 
 Select the file you want to upload and click 'upload'. You will see the results in a few moments.
 
